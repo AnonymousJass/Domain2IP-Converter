@@ -1,4 +1,3 @@
-![alt text](https://i.imgur.com/79dnspw.png)
 
 
 # Domain2IP-Converter
@@ -18,8 +17,6 @@ chmod +x convert_d2ip.sh
 
 Usage: ./convert_d2ip.sh [domain-list-file] [output-file]
 
-Written by Black Hat Ethical Hacking
-www.blackhatethicalhacking.com
 
 
 
